@@ -41,7 +41,7 @@ This application also integrates payment solutions, making use of paystack payme
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** (https://www.linkedin.com/in/ cyprian-obi-6306b4)
+- **LinkedIn:** (https://www.linkedin.com/in/cyprian-obi-6306b4)
 - **Email:** [obicyprian180@gmail.com](mailto:obicyprian180@gmail.com)
 
 ---
