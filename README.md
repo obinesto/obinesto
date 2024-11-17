@@ -41,15 +41,15 @@ This application also integrates payment solutions, making use of paystack payme
 
 ### 📊 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=obinesto&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=obinesto&show_icons=true&theme=radical)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=obinesto&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obinesto&layout=compact&theme=radical)
 
 ---
 
 ### 🌟 Contribution Graph
 
-!(https://github-readme-activity-graph.cyclic.app/graph?username=obinesto&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=obinesto&theme=react-dark)
 
 ---
 
