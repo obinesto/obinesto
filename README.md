@@ -47,6 +47,12 @@ This application also integrates payment solutions, making use of paystack payme
 
 ---
 
+### 🌟 Contribution Graph
+
+!(https://github-readme-activity-graph.cyclic.app/graph?username=obinesto&theme=react-dark)
+
+---
+
 ### 📫 Connect with Me
 
 - **LinkedIn:** (https://www.linkedin.com/in/cyprian-obi-6306b4)
