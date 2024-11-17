@@ -49,7 +49,8 @@ This application also integrates payment solutions, making use of paystack payme
 
 ### 🌟 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=obinesto&theme=gruvbox)
+[![obinesto's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=obinesto&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/obinesto/github-readme-activity-graph)
+
 
 ---
 
