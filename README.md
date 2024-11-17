@@ -39,19 +39,20 @@ This application also integrates payment solutions, making use of paystack payme
 
 ---
 
+### 📊 GitHub Stats
+
+(https://github-readme-stats.vercel.app/api?username=obinesto&show_icons=true&theme=radical)
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=obinesto&layout=compact&theme=radical)
+
+---
+
 ### 📫 Connect with Me
 
 - **LinkedIn:** (https://www.linkedin.com/in/cyprian-obi-6306b4)
 - **Email:** [obicyprian180@gmail.com](mailto:obicyprian180@gmail.com)
 
 ---
-
-### 📊 GitHub Stats
-
-!(https://github-readme-stats.vercel.app/api?username=obinesto&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obinesto&layout=compact&theme=radical)
-
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
