@@ -70,4 +70,9 @@ This application also integrates payment solutions, making use of paystack payme
 
 ---
 
+### 🌟 Profile Visitors
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/obinesto&title=Profile%20Views)
+
+
 Thanks for stopping by! 😊 Feel free to check out my work, connect, or reach out for collaboration opportunities.
