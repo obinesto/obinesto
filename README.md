@@ -49,7 +49,7 @@ This application also integrates payment solutions, making use of paystack payme
 
 ### 🌟 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=obinesto&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=obinesto&theme=gruvbox)
 
 ---
 
