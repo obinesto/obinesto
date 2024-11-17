@@ -46,6 +46,13 @@ This application also integrates payment solutions, making use of paystack payme
 
 ---
 
+### 📊 GitHub Stats
+
+!(https://github-readme-stats.vercel.app/api?username=obinesto&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obinesto&layout=compact&theme=radical)
+
+
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
