@@ -31,9 +31,9 @@ I'm a passionate **Full-Stack** and **Web Developer** with a focus on building e
 Here are a few notable projects showcasing my skills:
 
 1. **[E-commerce_hack](https://github.com/obinesto/E-commerce_hack)** - A fully responsive e-commerce application built with Html5, CSS and Vanilla javascript.
-This application also integrates payment solutions, making use of paystack payment gateway/API to handle card payments..
-2. **[MyFitnessPal](https://github.com/obinesto/MyFitnessPal)** - A fully reponsive gym web app that helps you to plan workout routines that can improve targeted muscles.
-3. **[NASA-ReactJS-App](https://github.com/obinesto/NASA-ReactJS-App)** - This project makes use of NASA's API to render the astronomy picture of the day (APOD).
+This application also integrates payment solutions, making use of paystack payment gateway/API to handle card payments.
+2. **[TaskManager](https://github.com/obinesto/taskManager)** - A simple and efficient task management application built with modern web technologies.
+3. **[YouTube Clone](https://github.com/obinesto/youtube-clone)** - A modern YouTube clone built with Next.js 15, React, and Supabase.
 
 [Check out more of my projects →](https://github.com/obinesto?tab=repositories)
 
