@@ -48,8 +48,8 @@ I'm a passionate <strong>Full-Stack</strong> and <strong>Web Developer</strong> 
 
 <h3>🌟 Projects</h3>
 <ol>
-  <li><strong><a href="https://github.com/obinesto/E-commerce_hack">E-commerce_hack</a></strong> — Fully responsive e-commerce site with Paystack integration.</li>
-  <li><strong><a href="https://github.com/obinesto/taskManager">TaskManager</a></strong> — Simple, modern task management web app.</li>
+  <li><strong><a href="https://github.com/obinesto/E-commerce_hack">E-commerce_hack</a></strong> — Fully responsive e-commerce web application with Paystack integration.</li>
+  <li><strong><a href="https://github.com/obinesto/taskManager">TaskManager</a></strong> — Simple, modern task management web application.</li>
   <li><strong><a href="https://github.com/obinesto/youtube-clone">YouTube Clone</a></strong> — Next.js + Supabase based YouTube clone.</li>
 </ol>
 <p><a href="https://github.com/obinesto?tab=repositories">Check out more of my projects →</a></p>
